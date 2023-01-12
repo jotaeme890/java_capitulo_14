@@ -4,7 +4,6 @@
  * entero) el programa debe indicarlo y debe pedir de nuevo el número.
  */
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Ejercicio1 {
